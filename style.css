@@ -1,0 +1,66 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.banner {
+	width: 100%;
+	object-fit: cover;
+}
+
+
+
+.back {
+	height: 50px;
+	bottom: 30px;
+	position: fixed;
+	right: 30px;
+	border-radius: 10%;
+
+}
+
+.special {
+	height: 70px;
+	bottom: 90px;
+	position: fixed;
+	right: 30px;
+	background-color: white;
+	border-radius: 100%;
+}
+
+p {
+	font-size: 20px;
+	text-align: justify;
+	padding: 110px;
+}
+
+h1	{
+	text-align: center;
+}
+
+.playstyle_description{
+	font-size: 15px;
+}
+
+.playstyle{
+	height: 100%j;
+	width: 100%;
+	object-fit: cover;
+}
+
+.Stats_description{
+	font-size: 15px;
+}
+
+.stats{
+	height: 90%;
+	width: 100%;
+	object-fit: cover;
+	
+}
+
+h3{
+	text-align: center;
+	color: red;
+	padding-top: 150px;
+}
